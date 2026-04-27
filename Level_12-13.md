@@ -19,4 +19,4 @@
 - последовательное применение этих команд для вложенных архивов
 
 ## Пароль для следующего уровня (bandit13)
-`F05dwFsc0cbaIiHh8J2eUkzVdtDWAn`
+`F05dwFsc0cbaIiH0h8J2eUkzVdtDWAn`
